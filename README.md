@@ -13,9 +13,9 @@
 ### Software: Python 3.6.1, Visual Studio Code, 1.61.2
 
 ## Summary
-### The analysis of the election show that:
+### -The analysis of the election show that:
 ### There were 369,711 votes cast in the election show that:
-### The candidates were:
+### *The candidates were:
 ### 1. Charles Casper Stockham
 ### 2. Diana DeGette
 ### 3. Raymon Anthony Doane
